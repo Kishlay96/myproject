@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    background-image: linear-gradient(to right, #ffffff, #dac0ff);
+    height: 800px;
+    background-size: cover;
+    padding: 30px;
+}
+
+.main-title {
+    font-family: "Roboto";
+    font-size: 47px;
+    color: #690cb0;
+    font-weight: 900;
+}
+
+.check {
+    color: red;
+}
+
+.sub-title {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #323f4b;
+    font-weight: 300;
+}
+
+.sub-container {
+    background-color: #f3eaff;
+    height: 60vh;
+    border-radius: 14px;
+    background-size: cover;
+    padding: 20px;
+}
+
+.textarea {
+    margin-top: 10px;
+    border-width: 1px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #690cb0;
+    width: 101px;
+    height: 50px;
+    color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    margin-left: 9px;
+    margin-right: 10px;
+}
